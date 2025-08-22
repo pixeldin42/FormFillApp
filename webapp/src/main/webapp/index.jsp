@@ -28,6 +28,11 @@
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
+        <label for="brother"><b>Father Name</b></label>
+    <input type="text" placeholder="brother Name" name="brother" id="brother" required>
+    <br>
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
