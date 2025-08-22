@@ -27,10 +27,7 @@
     <label for="father"><b>Father Name</b></label>
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
-
-       <label for="brother"><b>Father Name</b></label>
-    <input type="text" placeholder="brother Name" name="brother" id="brother" required>
-    <br>
+>
 
            <label for="sister"><b>sister name</b></label>
     <input type="text" placeholder="sister name" name="sister" id="sister" required>
