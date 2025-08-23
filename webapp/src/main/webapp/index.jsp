@@ -28,6 +28,10 @@
     <input type="text" placeholder="Father Name" name="father" id="father" required>
     <br>
 
+    <label for="Uncle"><b>Uncle Name</b></label>
+    <input type="text" placeholder="Uncle Name" name="Uncle" id="Uncle" required>
+    <br>
+
     <label for="dinesh"><b>Dinesh name</b></label>
     <input type="text" placeholder="Dinesh name" name="dinesh" id="dinesh" required>
     <br>
